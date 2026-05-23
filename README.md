@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mike 👋
 
-<!--
-**mikerayco/mikerayco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cloud solutions architect with a background in infrastructure, software development, and automation.
 
-Here are some ideas to get you started:
+I enjoy learning, building small tools, and finding simple ways to solve technical problems. Most of my experience is around cloud systems, internal IT platforms, scripting, and supporting teams with practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I'm interested in
+
+- Cloud engineering
+- Automation
+- Software development
+- Cybersecurity
+- Developer tools
+- Simple and low-maintenance systems
+- AI assisted development
+
+## What I'm working on
+
+I'm currently leaning back into hands-on technical work — cloud engineering, software development, automation, and platform engineering.
