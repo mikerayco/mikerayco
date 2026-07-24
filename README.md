@@ -12,8 +12,12 @@ I enjoy learning, building small tools, and finding simple ways to solve technic
 - Cybersecurity
 - Developer tools
 - Simple and low-maintenance systems
-- AI assisted development
+- AI assisted development and coding agents
 
 ## What I'm working on
 
 I'm currently leaning back into hands-on technical work — cloud engineering, software development, automation, and platform engineering.
+
+## Where to find me
+
+I write about what I'm learning and building over at [blog.mikerayco.dev](https://blog.mikerayco.dev).
