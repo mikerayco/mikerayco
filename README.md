@@ -25,6 +25,8 @@ Things I've built and am still building.
 - [Apple Health Data Viewer](https://github.com/mikerayco/Apple-Health-Data-Viewer) — A tool to visualize and analyze Apple Health data.
 - [Quiet Field](https://quietfield.zbapps.dev/) — A quiet corner of the internet with wisdom from Monks and Stoics.
 - [Domestique](https://domestique.zbapps.dev/) — Cycling utilities that help cyclists dial things.
+- [RideWeather](https://rideweather.zbapps.dev/) — Check the weather before riding out.
+- [Gatorun](https://gatorun.zbapps.dev/) — Fun game for all ages.
 
 ## Where to find me
 
