@@ -29,3 +29,5 @@ Things I've built and am still building.
 ## Where to find me
 
 I write about what I'm learning and building over at [blog.mikerayco.dev](https://blog.mikerayco.dev).
+
+If you find my work useful, you can [support me on Ko-fi](https://ko-fi.com/J4D424QGVQ).
