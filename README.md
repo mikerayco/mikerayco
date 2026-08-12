@@ -27,6 +27,7 @@ Things I've built and am still building.
 - [Domestique](https://domestique.zbapps.dev/) — Cycling utilities that help cyclists dial things.
 - [RideWeather](https://rideweather.zbapps.dev/) — Check the weather before riding out.
 - [Gatorun](https://gatorun.zbapps.dev/) — Fun game for all ages.
+- [Cubewell](https://cubewell.zbapps.dev/) — A calm, tactile 3D cube puzzle for quiet breaks.
 
 ## Where to find me
 
