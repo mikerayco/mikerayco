@@ -28,6 +28,7 @@ Things I've built and am still building.
 - [RideWeather](https://rideweather.zbapps.dev/) — Check the weather before riding out.
 - [Gatorun](https://gatorun.zbapps.dev/) — Fun game for all ages.
 - [Cubewell](https://cubewell.zbapps.dev/) — A calm, tactile 3D cube puzzle for quiet breaks.
+- [Termtris](https://github.com/mikerayco/Termtris) — A smooth, modern Tetris game for your terminal.
 
 ## Where to find me
 
